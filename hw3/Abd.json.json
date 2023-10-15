@@ -1,0 +1,21 @@
+{
+    " name ": " Jane Smith " ,
+    " age ": 28 ,
+    " city ": " Los Angeles " ,
+    " occupation ": " Graphic Designer " ,
+    " interests ": [" Art " , " Travel " , " Photography "] ,
+    " education ": " Bachelor's in Fine Arts " ,
+    " projects ": [
+    {
+    " name ": " Logo Design for Company WinterField " ,
+    " client ": " Company WinterField " ,
+    " year ": 2022
+    } ,
+    {
+    " name ": " Illustrations for a book " ,
+    " client ": " Marie Katterburg " ,
+    " year ": 2021
+    }
+    ] ,
+    " pets ": [{" name ":" thomas " , " type ":" cat "} ,{" name ":"gulpy " , " type ":" frog "}]
+    }
