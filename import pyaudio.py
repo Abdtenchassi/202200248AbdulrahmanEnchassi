@@ -5,7 +5,7 @@ CHUNK_SIZE = 1024
 FORMAT = pyaudio.paInt16
 CHANNELS = 1
 RATE = 16000
-API_ENDPOINT = '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'
+API_ENDPOINT = 'api key'
 
 def transcribe_audio(data):
     headers = {
