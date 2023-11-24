@@ -5,7 +5,7 @@ CHUNK_SIZE = 1024
 FORMAT = pyaudio.paInt16
 CHANNELS = 1
 RATE = 16000
-API_ENDPOINT = 'https://whisper-api.dev/v1/transcribe'
+API_ENDPOINT = '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'
 
 def transcribe_audio(data):
     headers = {
